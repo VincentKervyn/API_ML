@@ -1,0 +1,3 @@
+version: '3'
+volumes:
+  app_eliza_volume:
